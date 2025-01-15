@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "4ad3c07274b23683",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a7240c017fbaf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a47ed88adb30967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas-Courses/Complex Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complex Analysis"
+            }
+          },
+          {
+            "id": "b931b1c39261e3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Derivative of a Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivative of a Function"
+            }
+          },
+          {
+            "id": "5bc858220083260b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Continuity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continuity"
+            }
+          },
+          {
+            "id": "463918fdd165a80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Limits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limits"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4687889b8697cb95",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfd7b0090008c838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b2e8447b794285",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94df927b4c547e3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eba876f20bba5ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "46425fb18be1988b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd0b3e02a6caf39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3867fe213491b46",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d18f821d48dd0a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Cartesian Product of Sets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cartesian Product of Sets"
+            }
+          },
+          {
+            "id": "4f8c187508cc64f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "3db8381f37662804",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "125b4132fd760c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Cartesian Product of Sets.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cartesian Product of Sets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 787.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b931b1c39261e3d2",
+  "lastOpenFiles": [
+    "Areas-Courses/Complex Analysis.md",
+    "Notes/Derivative of a Function.md",
+    "Notes/Continuity.md",
+    "Notes/Limits.md",
+    "Notes/ODE Basics.md",
+    "Notes/Initial Value Problems.md",
+    "Areas-Courses/Ordinary Differential Equations.md",
+    "Notes/Real Numbers.md",
+    "Notes/Bayes' Formula.md",
+    "Notes/Basic terms in probability.md",
+    "Notes/Probability Defined on Events.md",
+    "Notes/Conditional Probabilities.md",
+    "Notes/Independent Events.md",
+    "Notes/Random Variables.md",
+    "Templates/ThmTemp.md",
+    "Templates/DefTemp.md",
+    "Areas-Courses/Probability and Stochastic Processes.md",
+    "Notes/Algebra of Complex Numbers.md",
+    "Notes/Lipschitz Continuity.md",
+    "Exercises/Ink/Writing/2025.1.15 - 14.51pm.writing",
+    "Notes/Injective-Surjective-Bijective Functions.md",
+    "Exercises/Ink/Drawing/2025.1.15 - 14.29pm.drawing",
+    "Exercises/Ink/Writing/2025.1.15 - 14.23pm.writing",
+    "Exercises/Ink/Writing",
+    "Exercises/Ink/Drawing/2025.1.15 - 14.17pm.drawing",
+    "Exercises/Ink/Drawing",
+    "Exercises/Ink",
+    "Areas-Courses/General Topology.md",
+    "Notes/Basis for a topology.md",
+    "Notes/Topological Spaces.md",
+    "Untitled.canvas",
+    "Notes/Cartesian Product of Sets.md",
+    "Notes/Strong Induction Principle.md",
+    "Notes/Well-ordering Property.md",
+    "Templates/latexsnippets~",
+    "Areas-Courses",
+    "Templates/latexsnippets"
+  ]
+}

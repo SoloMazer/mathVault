@@ -1,0 +1,16 @@
+{
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Exercises",
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

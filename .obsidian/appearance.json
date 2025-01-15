@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Material Gruvbox",
+  "interfaceFontFamily": "Cantarell",
+  "textFontFamily": "Euler Math,Neo Euler",
+  "monospaceFontFamily": "Hurmit Nerd Font",
+  "baseFontSize": 19,
+  "nativeMenus": false
+}
