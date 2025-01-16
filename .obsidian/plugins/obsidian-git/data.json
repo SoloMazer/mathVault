@@ -1,7 +1,7 @@
 {
   "commitMessage": "",
   "commitDateFormat": "HH:mm:ss DD-MM-YYYY",
-  "autoSaveInterval": 30,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
@@ -19,7 +19,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
