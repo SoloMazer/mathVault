@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Derivative of a Function.md",
+                "file": "Notes/Random Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative of a Function"
+              "title": "Random Variables"
             }
           },
           {
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46425fb18be1988b",
@@ -200,13 +199,23 @@
               "icon": "lucide-list",
               "title": "Outline of Cartesian Product of Sets"
             }
+          },
+          {
+            "id": "d82a6b24d844383c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 787.5,
-    "collapsed": true
+    "width": 787.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,16 +224,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b931b1c39261e3d2",
   "lastOpenFiles": [
-    "Areas-Courses/Complex Analysis.md",
+    "Notes/ODE Basics.md",
+    "Notes/Independent Events.md",
+    "Notes/Binary Operation.md",
     "Notes/Derivative of a Function.md",
+    "Areas-Courses/Complex Analysis.md",
     "Notes/Continuity.md",
     "Notes/Limits.md",
-    "Notes/ODE Basics.md",
     "Notes/Initial Value Problems.md",
     "Areas-Courses/Ordinary Differential Equations.md",
     "Notes/Real Numbers.md",
@@ -232,7 +244,6 @@
     "Notes/Basic terms in probability.md",
     "Notes/Probability Defined on Events.md",
     "Notes/Conditional Probabilities.md",
-    "Notes/Independent Events.md",
     "Notes/Random Variables.md",
     "Templates/ThmTemp.md",
     "Templates/DefTemp.md",
@@ -253,7 +264,6 @@
     "Untitled.canvas",
     "Notes/Cartesian Product of Sets.md",
     "Notes/Strong Induction Principle.md",
-    "Notes/Well-ordering Property.md",
     "Templates/latexsnippets~",
     "Areas-Courses",
     "Templates/latexsnippets"
