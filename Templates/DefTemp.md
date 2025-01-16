@@ -3,7 +3,7 @@ Status: #pending #overlap #finished
 #### Motivation:
 #### See Also:
 ### def:
-#### Examples:
+### Examples:
 #### Note:
 #### Lemma/Properties:
 #### Exercises:

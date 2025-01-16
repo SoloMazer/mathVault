@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{hostname}} changed {{files}} on {{date}}",
+  "commitMessage": "",
   "commitDateFormat": "HH:mm:ss DD-MM-YYYY",
   "autoSaveInterval": 30,
   "autoPushInterval": 0,
@@ -27,7 +27,7 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "authorInHistoryView": "full",
+  "authorInHistoryView": "hide",
   "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "{{hostname}} changed {{files}} on {{date}}\n"
+  "autoCommitMessage": "vault backup: {{date}}\n"
 }
