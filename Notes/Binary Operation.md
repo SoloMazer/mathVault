@@ -3,7 +3,7 @@ Status: #finished
 #### Motivation:
 #### See Also:
 [[Functions]]
-#### def: (Binary Operation)
+### def: (Binary Operation)
 A binary operation on a set $A$ is a function $f$ mapping $A\times A$ into A.
 #### Examples:
 #### Note:

@@ -3,7 +3,7 @@ Status: #pending #revisit
 #### Motivation:
 #### See Also:
 [[Relations]]
-#### Def: (Order Relation)
+### def: (Order Relation)
 A relation $C$ on a set $A$ is called an order relation (or simple relation, or linear relation) if it has the following properties:
 1. (Comparability) for every $x \in A\text{, and }x\neq y\text{ then either }xCy\text{ or }yCx$.
 2. (Non-reflexivity) For no $x$ in $A$ does the relation $xCx$ hold.
@@ -13,11 +13,11 @@ A relation $C$ on a set $A$ is called an order relation (or simple relation, or 
 2. The "less than" symbol, $<$, is commonly used to denote an order relation
 #### Examples:
 1. Consider the relation on the real line consisting of all pairs $(x,y)$ of real numbers such that $x<y$. It is an order relation, called the "usual order relation", on the real line.
-#### Def: (Open Interval)
+### def: (Open Interval)
 If $X$ is a set and $<$ is an order relation on $X$, and if $a<b$, we use the notation $(a,b)$ to denote the set $$
 \{x|a<x<b\};$$
 it is called an *open interval* in $X$. If this set is empty, we call $a$ the *immediate predecessor* of $b$, and we call $b$ the *immediate successor* of $a$.
-#### Def: (Order type)
+### def: (Order type)
 Suppose $A\text{ and }B$ are two sets with order relations $<_{a}\text{ and }<_{b}$ resp. We say that $A\text{ and }B$ have the same *order type* if there is a bijective correspondence between them that preserves order; that is, if there exists a bijective function $f:A\to B$ such that, $$
 a_{1}<_{a}a_{2}\implies f(a_{1})<_{b}f(a_{2})
 $$
@@ -26,7 +26,7 @@ $$
 f(x)=\frac{x}{1-x^2}
 $$
 is an order-preserving bijective correspondence.
-#### Def: (Dictionary order relation)
+### def: (Dictionary order relation)
 Suppose that $A\text{ and }B$ are two sets with order relations $<_{A}\text{ and }<_{B}$ resp. Define an order relation $<$ on $A\times B$ by defining $$
 a_{1}\times b_{1}<a_{2}\times b_{2}
 $$

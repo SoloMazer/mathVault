@@ -2,7 +2,7 @@
 Status: #pending
 #### Motivation:
 #### See Also:
-#### def:
+### def:
 Let $E\text{ and }F$ be two event for a sample space $S$ in an experiment. The probability of event $E$ given that $F$ has already occurred is denoted as $P(E|F)$ and defined as: $$
 P(E|F)=\frac{P(E\cap F)}{P(F)}
 $$

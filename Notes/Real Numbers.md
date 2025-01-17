@@ -4,7 +4,7 @@ Status: #pending #revisit
 #### See Also:
 [[Basic Set Theory]]
 [[Order Relations]]
-#### def: (Real Numbers)
+### def: (Real Numbers)
 We assume there exists a set $\mathbb{R}$, called the set of *real numbers*, two binary operations $+\text{ and }\cdot \text{ on }\mathbb{R}$, called addition and multiplication operations, resp, and an order relation $<$ on $\mathbb{R}$, such that the following properties hold: 
 *Algebraic Properties*
 1. $(x+y)+z=x=(y+z)\text{ and } (x\cdot y)\cdot z=x\cdot(y\cdot z)\:\forall\:x,y\in \mathbb{R}$.
@@ -19,7 +19,7 @@ We assume there exists a set $\mathbb{R}$, called the set of *real numbers*, two
 8. If $x<y$, there exists an element $z\text{ st. }x<z\text{ and }z<y$.
 
 Any set with an order relation satisfying (7) and (8) is called a linear continuum (by topologists).
-#### def: (Inductive Set)
+### def: (Inductive Set)
 A subset of $A$ of the real numbers is said to be inductive if it contains the number 1, and if for every $x$ in $A$, the number $x+1$ is also in $A$. Let $\mathcal{A}$ be the collection of all inductive subsets of $\mathbb{R}$. Then the set $\mathbb{Z}_{+}$ of positive integers is defined by the equation $$
 \mathbb{Z}_{+}=\bigcap_{A\in \mathcal{A}}A
 $$

@@ -3,7 +3,7 @@ Status: #pending:w
 
 #### Motivation:
 #### See Also:
-#### def:
+### def:
 Consider an Experiment whose sample space is $S$. For each event $E$ of the sample space $S$, we assume that a number $P(E)$ is defined and satisfies the following three conditions:
 1. $0\leq P(E)\leq 1$.
 2. $P(S)=1$.

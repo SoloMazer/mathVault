@@ -2,7 +2,7 @@
 Status: #pending
 #### Motivation:
 #### See Also:
-#### def:
+### def:
 A function $f:\mathbb{R}\to \mathbb{R}$ is called as Lipschtiz continuous if $$
 |f(X_{1})-f(x_{2})|\leq L\:|x_{1}-x_{2}|
 $$

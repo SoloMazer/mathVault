@@ -3,7 +3,7 @@ Status: #pending
 #### Motivation:
 #### See Also:
 [[Conditional Probabilities]]
-#### def:
+### def:
 Two events $E\text{ and }F$ are said to be *independent* if $$
 P(E\cap F)=P(E)P(F)
 $$

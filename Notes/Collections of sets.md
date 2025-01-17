@@ -7,11 +7,11 @@ Status: #pending
 [[Basic Logic]]
 #### References/Sources:
 James Munkres - Topology
-#### Def (Collections of sets):
+### Def (Collections of sets):
 The set which has its elements as sets themselves, is called a collection of set.
 #### Examples:
 Let $\mathcal{A}$ be a set of 4 deck of cards, in this set each deck of card is a set in itself and hence $\mathcal{A}$ is a collection of sets.
-#### Def (Arbitrary Union and Intersection of Sets):
+### Def (Arbitrary Union and Intersection of Sets):
 Let $\mathcal{A}$ be collection of sets, the union of elements of $\mathcal{A}$ is
 $$
 \bigcup_{A\:\in\:\mathcal{A}}\:=\:\{\:x|\:x\:\in\:A\:\text{for at least one}\:A\:\in\:\mathcal{A}\}

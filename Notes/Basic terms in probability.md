@@ -2,7 +2,7 @@
 Status: #finished
 #### Motivation:
 #### See Also:
-#### def:
+### def:
 1. The set of all possible outcomes of a experiment is known as the *sample space* of the experiment and is denoted by $S$.
 2. A subset $E$ of the sample space $S$ is known as an *Event*.
 3. Let $E\text{ and }F$ be two events such that $E\cap F=\emptyset$, then $E\text{ and }F$ are said to be mutually exclusive.

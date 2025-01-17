@@ -2,7 +2,7 @@
 Status: #pending
 #### Motivation:
 #### See Also:
-#### def:
+### def:
 Let $E$ and $F$ be events. We may express $E$ as $$
 E = (E\cap F)\cup(E\cap F^{c})
 $$
