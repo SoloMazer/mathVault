@@ -5,6 +5,8 @@ chapter 2 - complex functions
 [[Limits]]
 [[Continuity]]
 [[Derivative of a Function]]
+[[Analytic Functions]]
+
 
 
 
