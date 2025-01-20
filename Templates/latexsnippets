@@ -9,6 +9,8 @@
   
   // Text Environment
   {trigger: "tx", replacement: "\\text{$0}$1", options: "mA"},
+  // Proof snippets
+  {trigger: "bs", replacement: "\\blacksquare", options: "mA"},
 
   // Greek letters
   {trigger: "@a", replacement: "\\alpha", options: "mA"},
