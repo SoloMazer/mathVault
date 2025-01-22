@@ -13,15 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Areas-Courses/Theory of Rings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Theory of Rings"
+            }
+          },
+          {
+            "id": "549ac7bb916a6c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Polynomial Rings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polynomial Rings"
+            }
+          },
+          {
+            "id": "8deb6a300775a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Unit of a Ring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit of a Ring"
+            }
+          },
+          {
+            "id": "cb602a649e0e8adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rings"
+            }
+          },
+          {
+            "id": "1d6165699ef5ca90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Subrings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subrings"
+            }
+          },
+          {
+            "id": "099f2c48815b11a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46425fb18be1988b",
@@ -105,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Cartesian Product of Sets.md",
+                "file": "Notes/Polynomial Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cartesian Product of Sets"
+              "title": "Backlinks for Polynomial Rings"
             }
           },
           {
@@ -167,7 +235,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,9 +254,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "399176ba958c246f",
+  "active": "549ac7bb916a6c53",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
+    "Areas-Courses/Theory of Rings.md",
+    "Notes/Polynomial Rings.md",
+    "Notes/Unit of a Ring.md",
+    "Notes/If n is prime, Z by nZ is a field.md",
+    "Areas-Courses/Theory of Fields.md",
+    "$Z/nZ$ is a field, if n is prime.md",
+    "$Z",
+    "Z/nZ is a field, if n is prime.md",
+    "Z",
+    "Notes/Rings.md",
+    "Notes/Fields.md",
+    "Notes/Subrings.md",
+    "Areas-Courses/Real Analysis.md",
+    "Notes/Subgroups.md",
+    "Areas-Courses/Group Theory.md",
+    "Notes/Groups.md",
     "Notes/Topological Spaces.md",
     "Notes/Subbasis of a Topology.md",
     "Areas-Courses/General Topology.md",
@@ -200,20 +284,7 @@
     "Notes/Independent Events.md",
     "Notes/Conditional Probabilities.md",
     "Notes/Collections of sets.md",
-    "Notes/Cartesian Product of Sets.md",
-    "Notes/Boundedness.md",
-    "Notes/Binary Operation.md",
-    "Notes/Bayes' Formula.md",
-    "Notes/Basic terms in probability.md",
-    "Notes/Algebra of Complex Numbers.md",
     "Templates/latexsnippets~",
-    "Notes/Analytic Functions.md",
-    "Notes/Derivative of a Function.md",
-    "Areas-Courses/Complex Analysis.md",
-    "Notes/Basic Logic.md",
-    "Notes/Basic Set Theory.md",
-    "Templates/ThmTemp.md",
-    "Templates/DefTemp.md",
     "Exercises/Ink/Writing/2025.1.15 - 14.51pm.writing",
     "Exercises/Ink/Drawing/2025.1.15 - 14.29pm.drawing",
     "Exercises/Ink/Writing/2025.1.15 - 14.23pm.writing",
@@ -221,8 +292,6 @@
     "Exercises/Ink/Drawing/2025.1.15 - 14.17pm.drawing",
     "Exercises/Ink/Drawing",
     "Exercises/Ink",
-    "Untitled.canvas",
-    "Areas-Courses",
-    "Templates/latexsnippets"
+    "Untitled.canvas"
   ]
 }
