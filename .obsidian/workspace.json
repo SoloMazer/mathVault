@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "99a7240c017fbaf9",
+        "id": "fc3cfd7394ac3893",
         "type": "tabs",
         "children": [
           {
-            "id": "da6b6d51cb98dd9c",
+            "id": "399176ba958c246f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Basis for a topology.md",
+                "file": "Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis for a topology"
-            }
-          },
-          {
-            "id": "00ec178533639448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Subbasis of a Topology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Subbasis of a Topology"
-            }
-          },
-          {
-            "id": "f1e164f07a743b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Topological Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Topological Spaces"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46425fb18be1988b",
@@ -193,12 +163,11 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,13 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00ec178533639448",
+  "active": "399176ba958c246f",
   "lastOpenFiles": [
-    "Areas-Courses/General Topology.md",
+    "Notes/Untitled.md",
+    "Notes/Topological Spaces.md",
     "Notes/Subbasis of a Topology.md",
+    "Areas-Courses/General Topology.md",
     "Notes/Standard Topology.md",
     "Notes/Basis for a topology.md",
-    "Notes/Topological Spaces.md",
     "Notes/Real Numbers.md",
     "Notes/Probability Defined on Events.md",
     "Notes/Order Relations.md",
@@ -244,7 +214,6 @@
     "Notes/Basic Set Theory.md",
     "Templates/ThmTemp.md",
     "Templates/DefTemp.md",
-    "Notes/Continuity.md",
     "Exercises/Ink/Writing/2025.1.15 - 14.51pm.writing",
     "Exercises/Ink/Drawing/2025.1.15 - 14.29pm.drawing",
     "Exercises/Ink/Writing/2025.1.15 - 14.23pm.writing",
