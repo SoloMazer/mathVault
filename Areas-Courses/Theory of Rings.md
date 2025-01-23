@@ -1,4 +1,6 @@
 [[Rings]]
 [[Subrings]]
 [[Unit of a Ring]]
+[[Zero divisors of a ring]]
+[[Integral Domain of a ring]]
 [[Polynomial Rings]]
