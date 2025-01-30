@@ -13,6 +13,8 @@ Chapter 1
 [[Binary Operation]]
 [[Real Numbers]]
 [[Finite Sets]]
+[[Countable and Uncountable Sets]]
+
 
 chapter 2 - munkres
 [[Topological Spaces]]
