@@ -1,3 +1,4 @@
+Chapter 1 
 [[Basic Set Theory]]
 [[Basic Logic]]
 [[Collections of sets]]
@@ -11,6 +12,8 @@
 [[Boundedness]]
 [[Binary Operation]]
 [[Real Numbers]]
+[[Finite Sets]]
+
 chapter 2 - munkres
 [[Topological Spaces]]
 [[Basis for a topology]]
