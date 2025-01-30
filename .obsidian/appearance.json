@@ -4,5 +4,6 @@
   "textFontFamily": "STIX Two Math,Latin Modern Math",
   "monospaceFontFamily": "Hurmit Nerd Font",
   "baseFontSize": 20,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
