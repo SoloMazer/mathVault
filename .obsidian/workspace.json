@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "c71130112f188b85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          },
+          {
             "id": "ed485c53316ed31b",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0348bff9bbb414e7",
+  "active": "c71130112f188b85",
   "lastOpenFiles": [
     "Areas-Courses/General Topology.md",
     "Notes/Countable and Uncountable Sets.md",
