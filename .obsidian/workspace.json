@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46425fb18be1988b",
@@ -148,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Polynomial Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Polynomial Rings"
+              "title": "Backlinks"
             }
           },
           {
@@ -206,17 +204,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 412.5,
-    "collapsed": true
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +227,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f2bdfa8437a440e",
+  "active": "8d904f41d857ec90",
   "lastOpenFiles": [
-    "Notes/Polynomial Rings.md",
     "Excalidraw/Drawing 2025-02-17 14.37.39.excalidraw.md",
+    "Notes/Finite Sets.md",
+    "Notes/Polynomial Rings.md",
     "Excalidraw",
     "Areas-Courses/Theory of Rings.md",
     "Notes/Integral Domain of a ring.md",
@@ -241,7 +239,6 @@
     "Notes/Zero divisors of a ring.md",
     "Notes/Countable and Uncountable Sets.md",
     "Areas-Courses/General Topology.md",
-    "Notes/Finite Sets.md",
     "Notes/Basic Set Theory.md",
     "Areas-Courses/Theory of Fields.md",
     "Areas-Courses/Group Theory.md",
