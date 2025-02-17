@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "8f2bdfa8437a440e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-17 14.37.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-17 14.37.39.excalidraw"
+            }
+          },
+          {
             "id": "ed485c53316ed31b",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46425fb18be1988b",
@@ -213,14 +226,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0348bff9bbb414e7",
+  "active": "8f2bdfa8437a440e",
   "lastOpenFiles": [
+    "Notes/Polynomial Rings.md",
+    "Excalidraw/Drawing 2025-02-17 14.37.39.excalidraw.md",
+    "Excalidraw",
     "Areas-Courses/Theory of Rings.md",
     "Notes/Integral Domain of a ring.md",
-    "Notes/Polynomial Rings.md",
     "Notes/Unit of a Ring.md",
     "Notes/Zero divisors of a ring.md",
     "Notes/Countable and Uncountable Sets.md",
@@ -245,7 +261,6 @@
     "Areas-Courses/Real Analysis.md",
     "Notes/Subgroups.md",
     "Notes/Groups.md",
-    "Notes/Topological Spaces.md",
     "Templates/latexsnippets~",
     "Exercises/Ink/Writing/2025.1.15 - 14.51pm.writing",
     "Exercises/Ink/Drawing/2025.1.15 - 14.29pm.drawing",
@@ -253,7 +268,6 @@
     "Exercises/Ink/Writing",
     "Exercises/Ink/Drawing/2025.1.15 - 14.17pm.drawing",
     "Exercises/Ink/Drawing",
-    "Exercises/Ink",
     "Untitled.canvas"
   ]
 }
