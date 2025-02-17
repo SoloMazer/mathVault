@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas-Courses/Theory of Rings.md",
+                "file": "Notes/Polynomial Rings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory of Rings"
+              "title": "Polynomial Rings"
             }
           },
           {
@@ -218,13 +218,15 @@
   },
   "active": "0348bff9bbb414e7",
   "lastOpenFiles": [
+    "Areas-Courses/Theory of Rings.md",
+    "Notes/Integral Domain of a ring.md",
+    "Notes/Polynomial Rings.md",
+    "Notes/Unit of a Ring.md",
+    "Notes/Zero divisors of a ring.md",
     "Notes/Countable and Uncountable Sets.md",
     "Areas-Courses/General Topology.md",
     "Notes/Finite Sets.md",
     "Notes/Basic Set Theory.md",
-    "Notes/Polynomial Rings.md",
-    "Areas-Courses/Theory of Rings.md",
-    "Notes/Unit of a Ring.md",
     "Areas-Courses/Theory of Fields.md",
     "Areas-Courses/Group Theory.md",
     "Areas-Courses/Linear Algebra.md",
@@ -232,8 +234,6 @@
     "Areas-Courses/Quantum Mechanics.md",
     "Areas-Courses/Probability and Stochastic Processes.md",
     "Areas-Courses/Statistical Mechanics.md",
-    "Notes/Integral Domain of a ring.md",
-    "Notes/Zero divisors of a ring.md",
     "Notes/Rings.md",
     "Notes/If n is prime, Z by nZ is a field.md",
     "$Z/nZ$ is a field, if n is prime.md",
