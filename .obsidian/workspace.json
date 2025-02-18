@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "8f2bdfa8437a440e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-17 14.37.39.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-17 14.37.39.excalidraw"
-            }
-          },
-          {
             "id": "ed485c53316ed31b",
             "type": "leaf",
             "state": {
@@ -62,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +215,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d904f41d857ec90",
+  "active": "0348bff9bbb414e7",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-02-17 14.37.39.excalidraw.md",
     "Notes/Finite Sets.md",
